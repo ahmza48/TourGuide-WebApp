@@ -1,0 +1,28 @@
+﻿@model List<Travel.Models.Guide>
+
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+    @foreach (Travel.Models.Guide g in Model)
+    {
+        <div class="col wow fadeInUp" data-wow-delay="0.1s">
+            <div class="team-item">
+                <div class="overflow-hidden">
+                    <img class="img-fluid" src="@g.Image" alt="">
+                </div>
+                <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                    <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                </div>
+                <div class="text-center p-4">
+                    <h5 class="mb-0">@g.Name</h5>
+                    <h6>@g.PlaceName</h6>
+                    <h6>@g.Contact</h6>
+                    <a href="#" class="btn btn-primary" onclick="editGuide('@g.Id')">Edit</a>
+                    <a class="btn btn-primary" href="/Admin/DeleteGuide?id=@g.Id">Delete</a>
+
+                </div>
+            </div>
+        </div>
+    }
+</div>

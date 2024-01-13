@@ -1,0 +1,267 @@
+﻿@{
+    Layout = null;
+}
+@model List<Travel.Models.Guide>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Tourist - Travel Agency HTML Template</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="~/assests/img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="~/assests/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="~/assests/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="~/assests/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/js/bootstrap.min.js"></script>
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/assests/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="~/assests/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
+        <div class="row gx-0">
+            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Old Anarkali, Lahore, Pakistan</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>03245243670</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@example.com</small>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center text-lg-end">
+                <div class="d-inline-flex align-items-center" style="height: 45px;">
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Topbar End -->
+    <!-- Navbar & Hero Start -->
+    <div class="container-fluid position-relative p-0">
+        <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+            <a href="" class="navbar-brand p-0">
+                @*                <h1 class="text-primary m-0">@Model</h1>*@
+                <!-- <img src="img/logo.png" alt="Logo"> -->
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                <span class="fa fa-bars"></span>
+            </button>
+            @*            <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+            <a href="/Admin/" class="nav-item nav-link ">Places</a>
+            <a href="#" class="nav-item nav-link ">Guides</a>
+            <a href="#" class="nav-item nav-link ">Photographers</a>
+            <a href="#" class="nav-item nav-link ">Hotels</a>
+            </div>
+            <a href="/Admin/Logout" class="btn btn-primary rounded-pill py-2 px-4">Logut</a>
+            </div>*@
+        </nav>
+
+
+        @*<div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h6 class="section-title bg-white text-center text-primary px-3">Travel Guide</h6>
+                    <h1 class="mb-5">All Guides</h1>
+                </div>
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+                    @foreach (Travel.Models.Guide g in Model)
+                    {
+                        <div class="col wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="team-item">
+                                <div class="overflow-hidden">
+                                    <img class="img-fluid" src="@g.Image" alt="">
+                                </div>
+                                <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="text-center p-4">
+                                    <h5 class="mb-0">@g.Name</h5>
+                                    <h6>@g.PlaceName</h6>
+                                    <h6>@g.Contact</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>*@
+
+
+
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h6 class="section-title bg-white text-center text-primary px-3">Travel Guide</h6>
+                    <h1 class="mb-5">All Guides</h1>
+                </div>
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+                    @foreach (Travel.Models.Guide g in Model)
+                    {
+                        <div class="col wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="team-item">
+                                <div class="overflow-hidden">
+                                    <img class="img-fluid" src="@g.Image" alt="">
+                                </div>
+                                <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                </div>
+                                <div class="text-center p-4">
+                                    <h5 class="mb-0">@g.Name</h5>
+                                    <h6>@g.PlaceName</h6>
+                                    <h6>@g.Contact</h6>
+                                    <a href="#" class="btn btn-primary" onclick="editGuide('@g.Id')">Edit</a>
+                                    <a class="btn btn-primary" href="/Admin/DeleteGuide?id=@g.Id">Delete</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Edit Guide Modal -->
+        <div class="modal fade" id="editGuideModal" tabindex="-1" role="dialog" aria-labelledby="editGuideModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="editGuideModalLabel">Edit Guide</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="editGuideForm" method="post" action="/Admin/EditGuide" enctype="multipart/form-data">
+                            <input type="hidden" id="guideId" name="id" />
+                            <div class="form-group">
+                                <label for="guideName">Name:</label>
+                                <input type="text" class="form-control" id="guideName" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="photo">Guide Photo:</label>
+                                <input name="img" type="file" class="form-control" id="photo" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="guideContact">Contact:</label>
+                                <input type="text" class="form-control" id="guideContact" name="contact" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="guidePlace">Place Name:</label>
+                                <input type="text" class="form-control" id="guidePlace" name="place" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Update Guide</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+@*        <script>
+            function editGuide(guideId) {
+                console.log("Guide ID: " + guideId); // Check if guideId is properly passed
+
+                $.ajax({
+                    url: "/Admin/GetGuide",
+                    type: "GET",
+                    data: { id: guideId },
+                    success: function (guide) {
+                        console.log("Guide Info: ", guide); // Check if guide object is received successfully
+
+                        $("#guideId").val(guide.id);
+                        $("#guideName").val(guide.name);
+                        $("#guidePlace").val(guide.placeName);
+                        $("#guideContact").val(guide.contact);
+                        $("#editGuideModal").modal("show");
+                    },
+                    error: function (xhr, status, error) {
+                        console.log("AJAX Error:", xhr.responseText); // Check for any AJAX error message
+                        console.log("AJAX Status:", status); // Check the AJAX request status
+                        console.log("AJAX Error Object:", error); // Check for any additional error details
+                    }
+                });
+            }
+        </script>*@
+
+
+
+        <script>
+            function editGuide(guideId) {
+                $.ajax({
+                    url: "/Admin/GetGuide",
+                    type: "GET",
+                    data: { id: guideId },
+                    success: function (guide) {
+                        $("#guideId").val(guide.id);
+                        $("#guideName").val(guide.name);
+                        $("#guidePlace").val(guide.placeName);
+                        $("#guideContact").val(guide.contact);
+                        $("#editGuideModal").modal("show");
+                    },
+                    error: function () {
+                        // Handle error case
+                        console.log("Failed to retrieve guide information.");
+                    }
+                });
+            }
+        </script>
+
+
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/lib/wow/wow.min.js"></script>
+        <script src="~/lib/easing/easing.min.js"></script>
+        <script src="~/lib/waypoints/waypoints.min.js"></script>
+        <script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="~/lib/tempusdominus/js/moment.min.js"></script>
+        <script src="~/lib/tempusdominus/js/moment-timezone.min.js"></script>
+        <script src="~/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="~/assests/js/main.js"></script>
+</body>
+
+</html>
+
+
+
+

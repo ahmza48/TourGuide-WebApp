@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Travel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Travel.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\photographer1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\photographer1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\photographer2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\photographer2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\photographer3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\photographer3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Guides\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Guides\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\havelihotel.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\havelihotel.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\luxurioushotel.jpeg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\luxurioushotel.jpeg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\murreeHotel1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\murreeHotel1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\murreeHotel2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\murreeHotel2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\murreeHotel3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\murreeHotel3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\room-2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\room-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\room-3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\room-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\sarenaHOTEL.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\sarenaHOTEL.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Hotels\\shahihotel.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Hotels\\shahihotel.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\photographer1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\photographer1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\photographer2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\photographer2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\photographer3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\photographer3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Photographers\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Photographers\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\gilgit.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\gilgit.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\hunza.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\hunza.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\img1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\img1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\kalam.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\kalam.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\malamjabba.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\malamjabba.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\murreeBig.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\murreeBig.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\narankaghan.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\narankaghan.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\Backend\\img\\Places\\sawat.jpg",
+      "PackagePath": "staticwebassets\\Backend\\img\\Places\\sawat.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assests\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\css\\style.css",
+      "PackagePath": "staticwebassets\\assests\\css\\style.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\room-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\room-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\room-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\room-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\room-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\room-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\img\\video.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\hotel-assets\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assests\\hotel-assets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\about.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\booking.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\booking.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\destination-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\destination-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\destination-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\destination-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\gilgit.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\gilgit.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\hunza.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\hunza.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\img1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\kalam.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\kalam.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\malamjabba.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\malamjabba.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\murreeBig.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\murreeBig.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\narankaghan.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\narankaghan.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\package-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\package-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\package-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\package-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\package-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\package-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\room-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\room-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\room-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\room-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\room-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\room-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\sakardu.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\sakardu.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\sarenaHOTEL.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\sarenaHOTEL.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\sawat.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\sawat.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\shahihotel.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\shahihotel.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assests\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\js\\main.js",
+      "PackagePath": "staticwebassets\\assests\\js\\main.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assests\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assests\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\assests\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assests\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\MyDownloads\\ahsan\\Travel\\Travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Travel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Travel.props",
+      "PackagePath": "build\\Travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Travel.props",
+      "PackagePath": "buildMultiTargeting\\Travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Travel.props",
+      "PackagePath": "buildTransitive\\Travel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

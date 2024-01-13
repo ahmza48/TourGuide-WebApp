@@ -1,0 +1,56 @@
+﻿@{
+    Layout = null;
+}
+@*@model Travel.Models.Guide
+*@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add New Guide</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title text-center">Add New Guide</h2>
+                        <h2 class="text-center">@Model</h2>
+                        <form method="post" action="/Admin/InsertGuide" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label for="name">Guide Name:</label>
+                                <input name="name" type="text" class="form-control" id="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="photo">Guide Photo:</label>
+                                <input name="img" type="file" class="form-control" id="photo" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="contact">Guide Contact:</label>
+                                <input name="contact" type="text" class="form-control" id="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="designation">Guide Designation:</label>
+                                <input name="place" type="text" class="form-control" id="name" required>
+                            </div>
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary">Add Guide</button>
+                                <a class="btn btn-secondary" href="/Admin/GoHome">Go Back</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
